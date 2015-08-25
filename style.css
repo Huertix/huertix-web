@@ -1,0 +1,12 @@
+a 			{	text-decoration: none;}
+
+h1			{	float: none; margin: 15% 30% 0% 30%;
+				text-align: center; 
+				color: #fff;
+				box-shadow: 10px 10px 5px #888888; 
+				border-radius: 8px; 
+				padding: 2%; 
+				background: rgba(0, 0, 0, 0.4);}
+
+h1:hover	{	background: rgba(200, 200, 255, 0.4);
+				color: #533;}

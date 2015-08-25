@@ -1,0 +1,22 @@
+<?php
+
+
+
+	echo '<a href="" onclick="goBack()" style="text-decoration:none;"><h1 style="float: none; margin: 15% 30% 0% 30%;
+		text-align: center; 
+		color: #fff;
+		box-shadow: 10px 10px 5px #888888; 
+		border-radius: 8px; 
+		padding: 2%; 
+		background: rgba(0, 0, 0, 0.4);">Web Under Construction<br>Temporally Disabled<h1></a>';
+
+	echo '<script type="text/javascript">
+		function goBack(){			
+			window.history.back();
+					 	
+		}
+	</script>'
+
+
+
+?>
